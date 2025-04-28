@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/leeping/{{ name }}/archive/{{ version }}.tar.gz
-  sha256: 0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5
+  sha256: 9a1d9172ae309cebb8720de806de31770f8e1e74e25c64b15a6022cc9cd6579d
 
 build:
   noarch: python
